@@ -1,0 +1,38 @@
+# This file is a template, and might need editing before it works on your project.
+# Full project: https://gitlab.com/pages/octopress
+#  
+
+image: gitlab.si.umich.edu:4567/borromean/grader:master
+
+ 
+stages:
+  - test
+  - pages
+
+test: 
+  before_script:
+  script:
+   - python3 /app/grade.py
+
+pages:
+  stage: pages
+  script:
+  - apt-get update -qq
+  - apt-get -y install pandoc markdown
+  - mkdir public
+  - find ./ -iname "*.md" -type f -exec sh -c 'pandoc "${0}" --css css.css -o "./public/$(basename ${0%.md}.html)"' {} \;
+  - find ./ -name "*.html" -type f -exec sed -i s/\.md/\.html/ {}  \;
+  - cp *.png *.css *.jpg *.gif public/ || true
+
+
+  artifacts:
+    paths:
+    - public
+  only:
+  - master
+
+
+  
+
+
+
