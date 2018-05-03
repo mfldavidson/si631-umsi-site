@@ -55,6 +55,6 @@ In the case of [figure 10](https://github.com/mfldavidson/si631-umsi-site/blob/m
 
 Sometimes, avoiding an action word is good.  In the case of "Learn More," the CTA imparts a perception of work on the user, whereas "What We Do" is more inviting ([figure 11](https://github.com/mfldavidson/si631-umsi-site/blob/master/Figure%20R11.png)).
 
-[Figure 12](https://github.com/mfldavidson/si631-umsi-site/blob/master/Figure%%20R12.png) uses inclusive language ("Let's start" and "together"), which for an organization involving large life changes could be a good approach.
+[Figure 12](https://github.com/mfldavidson/si631-umsi-site/blob/master/Figure%20R12.png) uses inclusive language ("Let's start" and "together"), which for an organization involving large life changes could be a good approach.
 
 When showing two CTAs, emphasizing the more sought after one that most users look for or the one stakeholders wish to highlight can be done while still organizing the two choices together. [Figure 13](https://github.com/mfldavidson/si631-umsi-site/blob/master/Figure%20R13.png) demonstrates this method, which could be a good way to display "What You'll Learn" with "Apply Now."
