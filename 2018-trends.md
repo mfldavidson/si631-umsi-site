@@ -12,7 +12,7 @@ Broken grid layouts are not a new concept for print layouts (the topic is taught
 This style can be achieved with only a few tweaks to layout, such as major headings overlaid on images and slight overlaps of rectangle div's. Even small changes that break the traditional grid layout can add a very modern feel. The easiest way and suggestion for the UMSI site is to utilize this method in replicated locations (headers and footers) and at the first point of user interaction (the image and heading text at the top of every page), which can then be followed by a traditional (and easier to develop) grid layout for all of the main content.
 
 ### 2. Oblique and Organic Shapes
-For years, web and app geometry was predominantly right angled. This makes sense given grid layouts and the technical aspects occurring in the background of websites. In 2017, major sites altered their designs to be more rounded. Recent changes by Twitter and Google, as seen in [figure 4](https://github.com/mfldavidson/si631-umsi-site/blob/master/Figure%20R4.png) show that even a small change of rounded instead of right corners achieves this feel.
+For years, web and app geometry was predominantly right angled. This makes sense given grid layouts and the technical aspects occurring in the background of websites. In 2017, major sites altered their designs to be more rounded. Recent changes by Twitter and Google, as seen in [figure 4](https://github.com/mfldavidson/si631-umsi-site/blob/master/Figure%20R4.png?raw=true) show that even a small change of rounded instead of right corners achieves this feel.
 
 ### 3. Subtle Animation
 Animation that is slight in nature (often small movements, only occurring once, and controlled by the users inherently occurring actions (scrolling, pressing button) gives a very modern feel. Paramount is that these animations are not distracting, even sometimes barely noticeable.
@@ -20,9 +20,9 @@ Animation that is slight in nature (often small movements, only occurring once, 
 Two of the ways that subtle animation can be achieved are when objects enter the view or load (see [Brain Traffic](http://www.braintraffic.com), for example) or with unexpected scroll rates or varying scroll rates for different objects  (see [Made By Many](https://www.madebymany.com), for example).
 
 ### 4. Floating / Fixed Navigation Menus
-Fixed navigation (navigation that remains in place even as you scroll) has been popular recently, but the newest trend is to pop or float the navigation menu on top of the content.  As one site states, "This reinforces the feeling that the navigation is a global object, not necessarily a part of any one page, but there to follow you reassuringly through the site." ([figure 5](https://github.com/mfldavidson/si631-umsi-site/blob/master/Figure%20R5.png))  Additionally, due to similar effects to No. 3 above, it has a modern feel.
+Fixed navigation (navigation that remains in place even as you scroll) has been popular recently, but the newest trend is to pop or float the navigation menu on top of the content.  As one site states, "This reinforces the feeling that the navigation is a global object, not necessarily a part of any one page, but there to follow you reassuringly through the site." ([figure 5](https://github.com/mfldavidson/si631-umsi-site/blob/master/Figure%20R5.png?raw=true))  Additionally, due to similar effects to No. 3 above, it has a modern feel.
 
-[Figure 6](https://github.com/mfldavidson/si631-umsi-site/blob/master/Figure%20R6.png) highlights a fixed navigation bar that is simple so as to not obscure viewing the content. However, with a single click, it slides open a very complex navigation menu from the left ([figure 7](https://github.com/mfldavidson/si631-umsi-site/blob/master/Figure%20R7.png)), which provides many navigation options--more than could ever be listed statically on the top horizontal nav bar itself.
+[Figure 6](https://github.com/mfldavidson/si631-umsi-site/blob/master/Figure%20R6.png?raw=true) highlights a fixed navigation bar that is simple so as to not obscure viewing the content. However, with a single click, it slides open a very complex navigation menu from the left ([figure 7](https://github.com/mfldavidson/si631-umsi-site/blob/master/Figure%20R7.png?raw=true)), which provides many navigation options--more than could ever be listed statically on the top horizontal nav bar itself.
 
 ### More Information
 For more information about 2018 website trends and the source of the above recommendations, see [Webflow](https://webflow.com/blog/19-web-design-trends-for-2018) and [eConsultancy.](https://www.econsultancy.com/blog/69683-10-no-nonsense-web-design-trends-for-2018)
@@ -49,12 +49,12 @@ For more information about psychology for UX and the source of the above recomme
 ## Calls to Action
 Given the focus on Calls to Action in the UMSI site redesign, we have pulled out the most relevant examples of excellent Calls to Action (CTAs) from [the Hubspot Marketing blog.](https://blog.hubspot.com/marketing/great-call-to-action-examples)
 
-The [figure 9](https://github.com/mfldavidson/si631-umsi-site/blob/master/Figure%20R9.png) CTA personalizes the site by seemingly offering an individually tailored experience.
+The [figure 9](https://github.com/mfldavidson/si631-umsi-site/blob/master/Figure%20R9.png?raw=true) CTA personalizes the site by seemingly offering an individually tailored experience.
 
-In the case of [figure 10](https://github.com/mfldavidson/si631-umsi-site/blob/master/Figure%20R10.png), the word 'claim' is a strong action word and it imparts urgency.  UMSI could state "Claim Your Spot" or "Claim your degree."
+In the case of [figure 10](https://github.com/mfldavidson/si631-umsi-site/blob/master/Figure%20R10.png?raw=true), the word 'claim' is a strong action word and it imparts urgency.  UMSI could state "Claim Your Spot" or "Claim your degree."
 
-Sometimes, avoiding an action word is good.  In the case of "Learn More," the CTA imparts a perception of work on the user, whereas "What We Do" is more inviting ([figure 11](https://github.com/mfldavidson/si631-umsi-site/blob/master/Figure%20R11.png)).
+Sometimes, avoiding an action word is good.  In the case of "Learn More," the CTA imparts a perception of work on the user, whereas "What We Do" is more inviting ([figure 11](https://github.com/mfldavidson/si631-umsi-site/blob/master/Figure%20R11.png?raw=true)).
 
-[Figure 12](https://github.com/mfldavidson/si631-umsi-site/blob/master/Figure%20R12.png) uses inclusive language ("Let's start" and "together"), which for an organization involving large life changes could be a good approach.
+[Figure 12](https://github.com/mfldavidson/si631-umsi-site/blob/master/Figure%20R12.png?raw=true) uses inclusive language ("Let's start" and "together"), which for an organization involving large life changes could be a good approach.
 
-When showing two CTAs, emphasizing the more sought after one that most users look for or the one stakeholders wish to highlight can be done while still organizing the two choices together. [Figure 13](https://github.com/mfldavidson/si631-umsi-site/blob/master/Figure%20R13.png) demonstrates this method, which could be a good way to display "What You'll Learn" with "Apply Now."
+When showing two CTAs, emphasizing the more sought after one that most users look for or the one stakeholders wish to highlight can be done while still organizing the two choices together. [Figure 13](https://github.com/mfldavidson/si631-umsi-site/blob/master/Figure%20R13.png?raw=true) demonstrates this method, which could be a good way to display "What You'll Learn" with "Apply Now."
