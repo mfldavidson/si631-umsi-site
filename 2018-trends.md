@@ -7,7 +7,7 @@ Three sections summarizing recommendations are below. __2018 UX Trends__ provide
 First, we examined modern trends with website design. We selected the best recommendations considering relevance and applicability.
 
 ### 1. Broken Grid Layouts
-Broken grid layouts are not a new concept for print layouts (the topic is taught in-depth in SI 520 Graphic Design), but they are becoming more popular in web layouts.  This make sense, as it acts as a counter to the 90s style of stiff grid layouts. [Figures 1 and 2](Figure R1.png) show examples of outdated stiff grid layouts, while [figure 3](Figure R3.png) shows an example of a broken grid layout.
+Broken grid layouts are not a new concept for print layouts (the topic is taught in-depth in SI 520 Graphic Design), but they are becoming more popular in web layouts.  This make sense, as it acts as a counter to the 90s style of stiff grid layouts. [Figures 1 and 2](https://github.com/mfldavidson/si631-umsi-site/blob/master/Figure%20R1.png?raw=true) show examples of outdated stiff grid layouts, while [figure 3](https://github.com/mfldavidson/si631-umsi-site/blob/master/Figure%20R3.png?raw=true) shows an example of a broken grid layout.
 
 This style can be achieved with only a few tweaks to layout, such as major headings overlaid on images and slight overlaps of rectangle div's. Even small changes that break the traditional grid layout can add a very modern feel. The easiest way and suggestion for the UMSI site is to utilize this method in replicated locations (headers and footers) and at the first point of user interaction (the image and heading text at the top of every page), which can then be followed by a traditional (and easier to develop) grid layout for all of the main content.
 
