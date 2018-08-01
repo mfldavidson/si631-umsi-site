@@ -69,7 +69,7 @@ For more information about navigation, see [UX Booth.](http://www.uxbooth.com/ar
 
 #### Being directed to pages that don't share a standard look and feel
 
-Sites like University of California, Irvine ([figure 7](http://borromean.pages.umsi.io/t22/figure-7.html)) take users to sites that have a vastly different look and feel. This is confusing to users, especially when the link appears to be an internal link.
+Sites like University of California, Irvine ([figure 7](https://mfldavidson.github.io/si631-umsi-site/figure-7.html)) take users to sites that have a vastly different look and feel. This is confusing to users, especially when the link appears to be an internal link.
 
 Instead, focus on only directing the user within the same site, and ensure that all page templates match and do not contain wildly different branding, colors, or navigation. If it is necessary to link a user to a different site (for example, to the Office of Financial Aid), here are a few things that can help the user understand that they are leaving the site they are on:
 
