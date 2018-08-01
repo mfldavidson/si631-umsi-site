@@ -35,25 +35,25 @@ After completing the analysis, we had an interpretation session where we collect
 
 It's hard to navigate big blocks of text. UX practice tells us that "chunking" the content into smaller, more manageable bits makes it easier to consume. One method of chunking we saw that worked well to break up the big blocks of text was using subheadings throughout the page that told the user what they may find in that section, and minimized text within the section. The Syracuse site ([figure 1](https://github.com/mfldavidson/si631-umsi-site/blob/master/figure%201%20syracuse%20checklist.PNG?raw=true)) checklist is an example of an effective layout. The use of large bulleted checklist item titles with smaller detail text is effective for two purposes: quick overview and find the information needed.
 
-Another very effective method of chunking is an itemized list that expands if clicked to show the detailed information (accordion method). University of Washington ([figure 2](https://gitlab.si.umich.edu/borromean/t22/raw/master/figure%202%20washington%20accordion.PNG)) is a good example of this, although, we recommend making the list items larger text than the expanding info to make the differentiation clearer (similar to figure 1).
+Another very effective method of chunking is an itemized list that expands if clicked to show the detailed information (accordion method). University of Washington ([figure 2](https://raw.githubusercontent.com/mfldavidson/si631-umsi-site/master/figure%202%20washington%20accordion.PNG)) is a good example of this, although, we recommend making the list items larger text than the expanding info to make the differentiation clearer (similar to figure 1).
 
 For more information about chunking text, see [Nielsen Norman Group.](https://www.nngroup.com/articles/chunking/)
 
 #### Important information prioritized at top
 
-Be aware of what is most important to your users, and prioritize that information at the top of the page. The MHCI+D program at the University of Washington knew that students looking at the admissions page will primarily want to know when the deadline is before they dive deep into reading the requirements, so they put information about the application deadline at the top ([figure 3](https://gitlab.si.umich.edu/borromean/t22/raw/master/figure%203%20washington%20priority.PNG)).
+Be aware of what is most important to your users, and prioritize that information at the top of the page. The MHCI+D program at the University of Washington knew that students looking at the admissions page will primarily want to know when the deadline is before they dive deep into reading the requirements, so they put information about the application deadline at the top ([figure 3](https://raw.githubusercontent.com/mfldavidson/si631-umsi-site/master/figure%203%20washington%20priority.PNG)).
 
 For more information about prioritizing content, see [Nielsen Norman Group.](https://www.nngroup.com/articles/prioritize-good-content-bubbles-to-the-top/)
 
 #### Comparison table between different programs
 
-The University of Washington has a table ([figure 4](https://gitlab.si.umich.edu/borromean/t22/raw/master/figure%204%20washington%20tables.PNG)) that allows a user to quickly compare aspects of different programs offered by the university, even outside of the department that made the table, to identify which is right for them. Creating a table like this to help users understand the difference between MSI, MHI, Engineering MS Design Science, Stamps MDes, and other related degrees would be helpful for students who are having trouble grasping the differences and which program is best for them.
+The University of Washington has a table ([figure 4](https://raw.githubusercontent.com/mfldavidson/si631-umsi-site/master/figure%204%20washington%20tables.PNG)) that allows a user to quickly compare aspects of different programs offered by the university, even outside of the department that made the table, to identify which is right for them. Creating a table like this to help users understand the difference between MSI, MHI, Engineering MS Design Science, Stamps MDes, and other related degrees would be helpful for students who are having trouble grasping the differences and which program is best for them.
 
 For more information about comparison tables, see [Nielsen Norman Group.](https://www.nngroup.com/articles/comparison-tables/)
 
 #### Prioritize a few options (actions) by what users most want to see.
 
-Providing too many options to your user is overwhelming. The sites with good user experience identified the options most important to their users and highlighted them, allowing them to dig deeper using sub-navigation for other, less important content. Syracuse knew that the most important options for prospective students were to view the checklist/requirements, understand funding options, and start the application, so they chose these 3 options of many to highlight to their users ([figure 5](https://gitlab.si.umich.edu/borromean/t22/raw/master/figure%205%20syracuse%20options.PNG)), helping the user to make decisions and complete their task.
+Providing too many options to your user is overwhelming. The sites with good user experience identified the options most important to their users and highlighted them, allowing them to dig deeper using sub-navigation for other, less important content. Syracuse knew that the most important options for prospective students were to view the checklist/requirements, understand funding options, and start the application, so they chose these 3 options of many to highlight to their users ([figure 5](https://raw.githubusercontent.com/mfldavidson/si631-umsi-site/master/figure%205%20syracuse%20options.PNG)), helping the user to make decisions and complete their task.
 
 For more information about limiting options, see [Hick's Law at Interaction Design Foundation.](https://www.interaction-design.org/literature/article/hick-s-law-making-the-choice-easier-for-users)
 
@@ -81,7 +81,7 @@ For more information about standardizing look and feel for positive user experie
 
 #### Too much text
 
-Users do not read big blocks of online text word for word, so content must be written with this in mind. Large blocks of text like in a book will cause your readers to skip the entire section and get none of the information you wanted to convey. University of California, Irvine falls into this trap by having long webpages with paragraph after paragraph of content ([figure 8](https://gitlab.si.umich.edu/borromean/t22/raw/master/figure%208%20irvine%20block%20text.PNG)).
+Users do not read big blocks of online text word for word, so content must be written with this in mind. Large blocks of text like in a book will cause your readers to skip the entire section and get none of the information you wanted to convey. University of California, Irvine falls into this trap by having long webpages with paragraph after paragraph of content ([figure 8](https://raw.githubusercontent.com/mfldavidson/si631-umsi-site/master/figure%208%20irvine%20block%20text.PNG)).
 
 Instead, follow these tips to avoid big blocks of text:
 
@@ -93,7 +93,7 @@ For more information about how to write content for the way users read on the we
 
 #### Names of pages and headers do not accurately describe what’s on that page
 
-Users expect to click a link and end up on a page that is named similarly or the same as the link they clicked. They also expect the header to accurately describe the content on the page. Indiana University's site shows examples of this, such as when the user clicks "How to Apply" and lands on a page with the heading, "Informatics" ([figure 9](https://gitlab.si.umich.edu/borromean/t22/raw/master/figure%209%20indiana%20header.PNG)). They may think they have clicked the wrong link because they expected a page about how to apply. Furthermore, when the user reads the content, they realize it is about how to apply to the informatics program, but the header "Informatics" does not accurately describe this.
+Users expect to click a link and end up on a page that is named similarly or the same as the link they clicked. They also expect the header to accurately describe the content on the page. Indiana University's site shows examples of this, such as when the user clicks "How to Apply" and lands on a page with the heading, "Informatics" ([figure 9](https://raw.githubusercontent.com/mfldavidson/si631-umsi-site/master/figure%209%20indiana%20header.PNG)). They may think they have clicked the wrong link because they expected a page about how to apply. Furthermore, when the user reads the content, they realize it is about how to apply to the informatics program, but the header "Informatics" does not accurately describe this.
 
 Instead, make links and the page titles they lead to have similar or the same name. Ensure that page titles accurately describe the content on the page.
 
@@ -101,7 +101,7 @@ For more information about accurately describing content, see [Meet Content.](ht
 
 #### Call to action links difficult to find
 
-On some sites, call to action links like the button that led to the application process were difficult to find because it was buried in text or another page. For example, users have to read an entire paragraph to find where they can start their application at University of Washington ([figure 10](https://gitlab.si.umich.edu/borromean/t22/raw/master/figure%2010%20washington%20buried%20cta.PNG)).
+On some sites, call to action links like the button that led to the application process were difficult to find because it was buried in text or another page. For example, users have to read an entire paragraph to find where they can start their application at University of Washington ([figure 10](https://raw.githubusercontent.com/mfldavidson/si631-umsi-site/master/figure%2010%20washington%20buried%20cta.PNG)).
 
 Instead, follow these tips to ensure users can find call to action links, particularly the apply button:
 
